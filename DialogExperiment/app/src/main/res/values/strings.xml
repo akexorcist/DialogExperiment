@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Dialog Experiment</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="sample_dialog_message">Hello to the World of Android Development</string>
+    <string name="sample_dialog_confirm">Android challenge accepted</string>
+    <string name="sample_dialog_cancel">Cancelled</string>
+
+</resources>
